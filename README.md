@@ -1,2 +1,2 @@
 # BoomBoomPow
-graphic sound machine. Plaing around with paperjs and howler.
+graphic sound machine. Playing around with paperjs and howler.
