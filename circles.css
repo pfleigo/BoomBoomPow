@@ -8,3 +8,10 @@ body, html {
 	height: 100%;
 	margin: 0;
 }
+
+#instructions {
+	text-align: center;
+	margin: 0 auto;
+	padding: 100px;
+	color: white;
+}
